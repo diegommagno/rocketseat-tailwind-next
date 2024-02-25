@@ -34,22 +34,14 @@
 
 ## 🎨 Layout
 
-- You can check the layout [here](https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes). You will need a [Figma](https://figma.com) account to access it.
+- You can check the layout [here](https://www.figma.com/file/MU3H8HfTxX32ukt8ANpan7/Ignite-Tailwind?type=design&node-id=0-1&mode=design&t=otXUli5ueb6yWjN1-0). You will need a [Figma](https://figma.com) account to access it.
 
 
 ## 🧑🏻‍💻 Technologies
 
-- HTML
+- ReactJS
 - Tailwind CSS
-- JavaScript
-- Vite
-- NodeJS
-- Radix UI
 
 ## 🎓 Worked on
 
-- Using date-fns
 - Used icon pack lucide-react
-- Used Sonner to indicate that the note was added
-- crypto.randomUUID() to generate a unique string id for every note (used instead of Math.random())
-- Tailwind CSS for styling and responsiveness
