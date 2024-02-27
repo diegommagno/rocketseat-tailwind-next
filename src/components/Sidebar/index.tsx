@@ -43,11 +43,11 @@ export function Sidebar() {
         </nav>
 
         <UsedSpaceWidget />
-
-        <div className="h-px bg-zinc-200">
-          <Profile />
-        </div>
       </div>
+
+      <div className="h-px bg-zinc-200"></div>
+
+      <Profile />
     </aside>
   )
 }
