@@ -43,3 +43,4 @@
 ## 🎓 Worked on
 
 - Used icon pack lucide-react
+- Framer Motion library
