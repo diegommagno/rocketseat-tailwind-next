@@ -38,6 +38,7 @@
 
 - ReactJS
 - Tailwind CSS
+- Radix UI
 
 ## 🎓 Worked on
 
