@@ -44,3 +44,5 @@
 
 - Used icon pack lucide-react
 - Framer Motion library
+- useID() react hook
+- forceMount for content to be always available
