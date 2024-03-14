@@ -43,7 +43,7 @@ export default function Home() {
           <div className="flex flex-col gap-3 lg:grid lg:grid-cols-form">
             <label
               htmlFor="firstName"
-              className="text-sm font-medium text-zinc-700 dark:text-zinc-300"
+              className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
             >
               Name
             </label>
@@ -55,7 +55,7 @@ export default function Home() {
               <div className="flex flex-col gap-3 lg:block">
                 <label
                   htmlFor="lastName"
-                  className="text-sm font-medium text-zinc-700 lg:sr-only dark:text-zinc-300"
+                  className="text-sm font-medium text-zinc-700 lg:sr-only dark:text-zinc-100"
                 >
                   Last Name
                 </label>
@@ -70,7 +70,7 @@ export default function Home() {
           <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
             <label
               htmlFor="email"
-              className="text-sm font-medium text-zinc-700"
+              className="text-sm font-medium text-zinc-500 dark:text-zinc-100"
             >
               Email address
             </label>
@@ -90,10 +90,10 @@ export default function Home() {
           <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
             <label
               htmlFor="photo"
-              className="text-sm font-medium text-zinc-700"
+              className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
             >
               Your Photo
-              <span className="mt-0.5 block text-sm font-normal text-zinc-500">
+              <span className="mt-0.5 block text-sm font-normal text-zinc-500 dark:text-zinc-400">
                 This will be displayed on your profile.
               </span>
             </label>
@@ -105,7 +105,10 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
-            <label htmlFor="role" className="text-sm font-medium text-zinc-700">
+            <label
+              htmlFor="role"
+              className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
+            >
               Role
             </label>
             <Input.Root>
@@ -116,7 +119,7 @@ export default function Home() {
           <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
             <label
               htmlFor="country"
-              className="text-sm font-medium text-zinc-700"
+              className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
             >
               Country
             </label>
@@ -129,7 +132,7 @@ export default function Home() {
           <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
             <label
               htmlFor="timezone"
-              className="text-sm font-medium text-zinc-700"
+              className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
             >
               Timezone
             </label>
@@ -143,9 +146,12 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
-            <label htmlFor="bio" className="text-sm font-medium text-zinc-700">
+            <label
+              htmlFor="bio"
+              className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
+            >
               Bio
-              <span className="mt-0.5 block text-sm font-normal text-zinc-500">
+              <span className="mt-0.5 block text-sm font-normal text-zinc-500 dark:text-zinc-400">
                 Write a short introduction.
               </span>
             </label>
@@ -196,10 +202,10 @@ export default function Home() {
           <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
             <label
               htmlFor="projects"
-              className="text-sm font-medium text-zinc-700"
+              className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
             >
               Portfolio projects
-              <span className="mt-0.5 block text-sm font-normal text-zinc-500">
+              <span className="mt-0.5 block text-sm font-normal text-zinc-500 dark:text-zinc-400">
                 Share a few snippets of your work.
               </span>
             </label>
