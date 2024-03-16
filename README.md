@@ -1,6 +1,7 @@
 <h1 align="center">Tailwind Dashboard</h1>
 
 <p align="center">
+  Development of a Dashboard interface using the fundamentals of Tailwind.
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 
 ## 📝 Live Preview 
 
-- [Tailwind Dashboard](https://nlw-expert-notes-liard-xi.vercel.app/)
+- [Tailwind Dashboard](https://rocketseat-tailwind-next-sigma.vercel.app/)
 
 <br/>
 
@@ -31,7 +32,7 @@
 
 ## 🎨 Layout
 
-- You can check the layout [here](https://www.figma.com/file/MU3H8HfTxX32ukt8ANpan7/Ignite-Tailwind?type=design&node-id=0-1&mode=design&t=otXUli5ueb6yWjN1-0). You will need a [Figma](https://figma.com) account to access it.
+- You can check the layout [here](https://www.figma.com/file/MU3H8HfTxX32ukt8ANpan7/Ignite-Tailwind?type=design&node-id=0%3A1&mode=design&t=8MDN59hWLgltXxOj-1). You will need a [Figma](https://figma.com) account to access it.
 
 
 ## 🧑🏻‍💻 Technologies
@@ -46,3 +47,11 @@
 - Framer Motion library
 - useID() react hook
 - forceMount for content to be always available
+- Used tailwind dark mode that uses the user's operation system theme to apply a dark mode to the website.
+- Stylizations
+- Responsiveness with pre-configured breakpoints
+- Tailwind Variants
+- Radix UI
+- Animations
+- Composition pattern
+- Form creation
