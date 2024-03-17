@@ -51,7 +51,6 @@
 - Stylizations
 - Responsiveness with pre-configured breakpoints
 - Tailwind Variants
-- Radix UI
 - Animations
 - Composition pattern
 - Form creation
