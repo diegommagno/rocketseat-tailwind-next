@@ -1,7 +1,7 @@
 <h1 align="center">Tailwind Dashboard</h1>
 
 <p align="center">
-  Development of a Dashboard interface using the fundamentals of Tailwind.
+  Development of a dashboard interface using the fundamentals of Tailwind.
 </p>
 
 <p align="center">
