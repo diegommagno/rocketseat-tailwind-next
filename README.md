@@ -23,13 +23,6 @@
 
 - [Tailwind Dashboard](https://rocketseat-tailwind-next-sigma.vercel.app/)
 
-<br/>
-
-<p align="center">
-</p>
-  <img alt="Dashboard page." src=".github/preview-cover.png" width="50%" />
-<br/>
-
 ## 🎨 Layout
 
 - You can check the layout [here](https://www.figma.com/file/MU3H8HfTxX32ukt8ANpan7/Ignite-Tailwind?type=design&node-id=0%3A1&mode=design&t=8MDN59hWLgltXxOj-1). You will need a [Figma](https://figma.com) account to access it.
